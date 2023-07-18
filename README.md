@@ -1,5 +1,7 @@
 # Memoteca
 
+Curso Angular Alura 14 - Aplique o conceitos e desenvolva seu crud
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
 ## Development server
